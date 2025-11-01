@@ -1,6 +1,4 @@
-# Hotel-Management-System
-🚧 🔨 Website still under construction.
-
+# Hotel-Booking-System
 An user-friendly Hotel Booking System built for easy online reservations.
 
 ## Project Description
@@ -15,7 +13,8 @@ This Hotel Management System project is designed to provide users with a conveni
 ## Usage
 1. Accessing the Website: The website is still under construction. Once completed, it will be accessible through a web browser.
 2. Making Reservations: Users can navigate through the website to select their desired dates, room types, and other preferences to make a reservation.
-3. Backend Operations: The backend functionality for reservation confirmation and database management will be implemented in future updates.
+3. This is connected to firebase and all the data are stored in realtime database.
+4. Backend Operations: The backend functionality for reservation confirmation will be implemented in future updates.
 
 ## Development
 This project is built using HTML, CSS, and JavaScript technologies. 
