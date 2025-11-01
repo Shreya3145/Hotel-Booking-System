@@ -7,7 +7,7 @@ import { getDatabase, ref, set } from "firebase/database";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC0QCdxoDc-clWlR-MflPurxAEeHxcgngo",
+  apiKey: "xxx",
   authDomain: "glacier.firebaseapp.com",
   databaseURL: "xxx", //add database URL
   projectId: "glacier",
