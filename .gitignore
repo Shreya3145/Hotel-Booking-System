@@ -1,2 +1,7 @@
 node_modules
 firebase-config.js
+.DS_Store
+.parcel-cache/
+.cache/
+dist/
+.vscode/
